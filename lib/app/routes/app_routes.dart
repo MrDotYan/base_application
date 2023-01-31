@@ -7,6 +7,10 @@ abstract class Routes {
   static const ROOT = _Paths.ROOT;
   static const SETTINGS = _Paths.SETTINGS;
   static const THEME = _Paths.THEME;
+  static const PERSONAL = _Paths.PERSONAL;
+  static const CART = _Paths.CART;
+  static const CATEGORY = _Paths.CATEGORY;
+  static const ABOUT = _Paths.ABOUT;
 }
 
 abstract class _Paths {
@@ -15,4 +19,8 @@ abstract class _Paths {
   static const ROOT = '/root';
   static const SETTINGS = '/settings';
   static const THEME = '/theme';
+  static const PERSONAL = '/personal';
+  static const CART = '/cart';
+  static const CATEGORY = '/category';
+  static const ABOUT = '/about';
 }
