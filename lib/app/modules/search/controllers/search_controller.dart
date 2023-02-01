@@ -1,9 +1,7 @@
 import 'package:get/get.dart';
 
-class RootController extends GetxController {
-  // ignore: todo
-  //TODO: Implement RootController
-
+class SearchController extends GetxController {
+  //TODO: Implement SearchController
 
   final count = 0.obs;
   @override
