@@ -13,7 +13,6 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   get_storage: ^2.0.3
-  restart_app: ^1.1.2
   animated_floating_buttons: ^0.0.2
   badges: ^3.0.2
 
