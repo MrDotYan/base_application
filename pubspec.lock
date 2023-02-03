@@ -112,11 +112,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
   get:
     dependency: "direct main"
     description:
@@ -261,14 +256,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "4.2.4"
-  restart_app:
-    dependency: "direct main"
-    description:
-      name: restart_app
-      sha256: fed4f0756df1fd3a84dbb78fe35869f54ddb1e095604d5843bfc60b76e1398fd
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "1.1.2"
   sky_engine:
     dependency: transitive
     description: flutter

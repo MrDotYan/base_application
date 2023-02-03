@@ -53,31 +53,37 @@ class AppPages {
       name: _Paths.PERSONAL,
       page: () => const PersonalView(),
       binding: PersonalBinding(),
+      transition: Transition.cupertino,
     ),
     GetPage(
       name: _Paths.CART,
       page: () => const CartView(),
       binding: CartBinding(),
+      transition: Transition.cupertino,
     ),
     GetPage(
       name: _Paths.CATEGORY,
       page: () => const CategoryView(),
       binding: CategoryBinding(),
+      transition: Transition.cupertino,
     ),
     GetPage(
       name: _Paths.ABOUT,
       page: () => const AboutView(),
       binding: AboutBinding(),
+      transition: Transition.cupertino,
     ),
     GetPage(
       name: _Paths.NOTIFICATIONS,
       page: () => const NotificationsView(),
       binding: NotificationsBinding(),
+      transition: Transition.cupertino,
     ),
     GetPage(
       name: _Paths.SEARCH,
       page: () => const SearchView(),
       binding: SearchBinding(),
+      transition: Transition.cupertino,
     ),
   ];
 }
